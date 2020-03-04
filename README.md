@@ -2,7 +2,7 @@
 ## Custom Component For Home Assistant
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 
-This component creates a service `sonos_crossfade.update` that lets you change playback modes on any one of your Sonos speakers. Requires the `sonos` component to be already setup.
+This component creates a service `sonos_crossfade.update` that lets you change the crossfade setting on any one of your Sonos speakers. Requires the `sonos` component to be already setup.
 
 ## Install
 1. Copy the `custom_components` forlder in your HA configuration folder (or install with [HACS](https://github.com/custom-components/hacs)).
