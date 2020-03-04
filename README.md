@@ -18,7 +18,7 @@ This component creates a service `sonos_crossfade.update` that lets you change t
 
 ## Service Parameters
 - `entity_id`: entity id of the speaker  (eg. `media_player.bedroom`)
-- `enabled`: crossfade state.
+- `enabled`: crossfade enabled state (true or false)
 
 ## Support
 
