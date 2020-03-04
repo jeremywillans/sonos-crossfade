@@ -1,0 +1,9 @@
+update:
+  description: Updates Crossfade setting for a Sonos Speaker.
+  fields:
+    entity_id:
+      description: entity_id of the device to set
+      example: "media_player.lounge"
+    enabled:
+      description: crossfade state
+      example: true

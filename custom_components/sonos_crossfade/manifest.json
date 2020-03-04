@@ -1,0 +1,9 @@
+{
+  "domain": "sonos_crossfade",
+  "name": "Sonos Crossfade",
+  "documentation": "https://github.com/jeremywillans/sonos-crossfade",
+  "dependencies": ["sonos"],
+  "codeowners": ["@jeremywillans"],
+  "requirements": ["soco>=0.8"],
+  "homeassistant": "0.98.1"
+}
