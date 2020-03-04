@@ -12,7 +12,7 @@ This component creates a service `sonos_crossfade.update` that lets you change t
 1. Install with [HACS](https://github.com/custom-components/hacs) or copy the `custom_components` folder in your HA configuration folder.
 2. Add
     ```
-    event_emitter:
+    sonos_crossfade:
     ```
     to the `configuration.yaml`
 
