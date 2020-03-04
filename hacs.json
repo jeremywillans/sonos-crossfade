@@ -1,0 +1,7 @@
+{
+  "name": "Sonos Crossfade",
+  "render_readme": true,
+  "domains": [
+    "sonos_crossfade"
+  ]
+}
