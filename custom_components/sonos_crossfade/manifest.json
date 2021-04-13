@@ -5,5 +5,6 @@
   "dependencies": ["sonos"],
   "codeowners": ["@jeremywillans"],
   "requirements": ["soco>=0.8"],
-  "homeassistant": "0.98.1"
+  "homeassistant": "0.98.1",
+  "version": "0.2"
 }
