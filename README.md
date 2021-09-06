@@ -1,5 +1,9 @@
 # Sonos Crossfade
 
+### ARCHIVED REPO
+### This is now supported natively in [HA 2021.8](https://www.home-assistant.io/integrations/sonos/#service-sonosset_option)
+
+---
 ## Custom Component For Home Assistant
 
 [![gh_release][gh_release]](../../releases)
